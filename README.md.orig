@@ -1,11 +1,16 @@
 # git-test
 
+<<<<<<< HEAD
 testing
 my readme.d file 
 testing 
-<<<<<<< HEAD
 hello from A
-=======
+rebase testing
 hello from B
-tesitng conflicts
->>>>>>> 2c4dcd2 (changes done in repo from B)
+=======
+
+my readme.d file 
+testing 
+hello from A
+now testing rebase
+>>>>>>> 7c36281 (again commiting from B)
