@@ -8,3 +8,5 @@ b=9
 if [ $a -lt $b ]
 then echo "a is smaller than b"
 fi
+
+echo "testin git reset"
