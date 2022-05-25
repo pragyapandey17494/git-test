@@ -2,4 +2,4 @@
 
 my readme.d file 
 testing 
-hello from local
+hello from A
